@@ -1,0 +1,13 @@
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.AssemblyReference.cache
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.Form1.resources
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.Form3.resources
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.Resources.resources
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.GenerateResource.cache
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.vbproj.CoreCompileInputs.cache
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\bin\Debug\Posttest4.exe.config
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\bin\Debug\Posttest4.exe
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\bin\Debug\Posttest4.pdb
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\bin\Debug\Posttest4.xml
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.exe
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.xml
+C:\Users\fizri\OneDrive\Desktop\POSTTEST_PEMROGRAMAN VISUALISASI\POSTTEST\Posttest4\Posttest4\obj\Debug\Posttest4.pdb
